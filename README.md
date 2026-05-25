@@ -34,6 +34,10 @@ Embora a escolha das ferramentas tenha facilitado a etapa de desenvolvimento (Lo
 * **Dependência de Configuração Externa:** Toda a gestão do serviço de e-mail é externa, exigindo configuração prévia no painel do próprio Resend antes do código funcionar.
 * **Restrições de Remetente (Plano Gratuito):** O principal gargalo técnico encontrado foi a limitação da API Key no plano gratuito, que permite o vínculo e envio através de **apenas um único endereço de e-mail**. A tentativa de utilizar múltiplos remetentes exige processos adicionais de verificação de domínio e outros requisitos burocráticos dentro da conta do Resend.
 
+  ## Poximos Passos:
+  * Ultilizar um API que possibilite uso para o publico geral.
+  * Melhorar a interface e a estética da Pagina de Cadastro.
+
 
 +++ ALUNOS: DANIEL NASCIMENTO, THALYANA ALVES +++
 
